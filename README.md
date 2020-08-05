@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My story
+I am a software engineer who just graduated from Founders and Coders.
+
+
+
+### My works
+* [personal website](https://github.com/Jihyun-Jang/FAC-Application)
+* 
+
+### My dreams
+
